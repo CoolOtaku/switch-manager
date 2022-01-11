@@ -1,0 +1,21 @@
+[
+{"date":"29.12.2021 20:06:27","user":"SwitchManagerAdmin","ip":"127.0.0.1","message":"User: Nazar, is modified."}
+,{"date":"29.12.2021 20:07:36","user":"SwitchManagerAdmin","ip":"127.0.0.1","message":"User: Nazar, is modified."}
+,{"date":"30.12.2021 14:03:14","user":"Nazar","ip":"127.0.0.1","message":"Login simple."}
+,{"date":"30.12.2021 14:05:42","user":"SwitchManagerAdmin","ip":"127.0.0.1","message":"Login simple."}
+,{"date":"30.12.2021 14:06:19","user":"Nazar","ip":"127.0.0.1","message":"Login simple."}
+,{"date":"30.12.2021 14:08:39","user":"Nazar","ip":"127.0.0.1","message":"User: Nazar, is modified."}
+,{"date":"30.12.2021 14:09:04","user":"Nazar","ip":"127.0.0.1","message":"User: Nazar, is modified."}
+,{"date":"30.12.2021 14:09:31","user":"Nazar","ip":"127.0.0.1","message":"Add new User the Login: test"}
+,{"date":"30.12.2021 14:15:09","user":"test","ip":"127.0.0.1","message":"Login simple."}
+,{"date":"30.12.2021 14:15:27","user":"test","ip":"127.0.0.1","message":"User: test, is modified."}
+,{"date":"30.12.2021 14:15:36","user":"SwitchManagerAdmin","ip":"127.0.0.1","message":"Login simple."}
+,{"date":"30.12.2021 14:15:48","user":"SwitchManagerAdmin","ip":"127.0.0.1","message":"User the Login: test, is deleted!"}
+,{"date":"30.12.2021 14:27:13","user":"SwitchManagerAdmin","ip":"127.0.0.1","message":"Login simple."}
+,{"date":"30.12.2021 14:28:19","user":"SwitchManagerAdmin","ip":"127.0.0.1","message":"Switch the IP: 10.0.254.19 10.0.254.19, is modified."}
+,{"date":"30.12.2021 14:32:34","user":"SwitchManagerAdmin","ip":"127.0.0.1","message":"Switch the IP: 10.0.254.19, is modified."}
+,{"date":"30.12.2021 14:32:58","user":"SwitchManagerAdmin","ip":"127.0.0.1","message":"Switch the IP: 10.0.254.19 fdfdfdf, is modified."}
+,{"date":"30.12.2021 14:33:07","user":"SwitchManagerAdmin","ip":"127.0.0.1","message":"Switch the IP: 10.0.254.19fdfdfdf, is modified."}
+,{"date":"30.12.2021 14:42:42","user":"SwitchManagerAdmin","ip":"127.0.0.1","message":"Switch the IP: 10.0.254.19fdfdfdffvdfdvfdvfdvfdvfdv, is modified."}
+,{"date":"30.12.2021 14:43:21","user":"SwitchManagerAdmin","ip":"127.0.0.1","message":"Switch the IP: 10.0.254.19, is modified."}
+]
