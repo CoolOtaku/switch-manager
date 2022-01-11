@@ -1,0 +1,146 @@
+.container-1_general{
+    max-width: 999px;
+    min-height: 59px;
+    margin-top: 11px;
+    
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    
+    background-color: #476072;
+}
+
+.box-1-1_general,.box-1-2_general{
+    display: flex;
+    max-width: 50%;
+    min-width: 500px;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+.box-1-1_general{
+    padding-left: 46px;
+}
+
+.box-1-2_general{
+    padding-right: 46px;
+    justify-content: end;
+    display: flex;
+
+}
+.button-1-1_general {
+    width: 180px;
+}
+.button-1-2_general{
+    width: 79px;
+}
+.text-butt-1-1_general,.text-butt-1-2_general{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+}
+
+.search-1-1_general{
+    width: 293px;
+    margin-right: 10px;
+
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.container-2_general{
+    max-width: 999px;
+    padding: 0px;
+    display: flex;
+}
+.gen-box-2-1_general{
+    margin-top: 14px;
+    max-width: 50%;
+    min-width: 487px;
+
+    display: flex;
+    justify-content: center;
+}
+.box-2-1_general{
+    width: 487px;
+    height: 186px;
+
+    border-radius: 10px;
+    display: flex;
+    padding: 10px;
+    background-color: #476072;
+}
+.probel_1-1_general{
+    width: 25px;
+}
+
+.pid-box-2-1_general{
+    margin-left: 46px;
+    padding: 10px;
+}
+.img-1-1_general{
+    width: 113px;
+    height: 113px;
+    border-radius: 100px;
+}
+
+.text-sw-name_general{
+    
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    
+    color: white;
+    font-size: 20px;
+}
+
+#switch-name_general{
+    text-align: center;
+    margin-top: 5px;
+}
+
+.pid-box-2-2_general{
+    margin-left: 20px;
+    min-width: 189px;
+    max-width: 190px;
+    padding: 10px;
+    position: relative;
+}
+.gen-button-box-2-1_general{
+    position: absolute;
+    bottom: 0px;
+    right: 30px;
+    padding-bottom: 10px;
+}
+.button-2-1_general{
+    width: 80px;
+}
+
+.pid-box-2-3_general{
+    padding: 10px;
+    margin-left: 20px;
+}
+
+.button_edit_general,.button_delet_general{
+    margin-left: 24px;
+    fill: #2A4355;
+}
+.button_edit_general{
+    
+}
+.button_delet_general{
+    margin-top: 15px;
+}
+
+.button_edit_general:hover{
+    fill: rgb(7, 196, 7);
+}
+
+.button_delet_general:hover{
+    fill: red;
+}

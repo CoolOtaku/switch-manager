@@ -1,0 +1,6 @@
+@media all and (max-width: 949px){
+    .row-box-center_general{
+        justify-content: center;
+        display: flex;
+    }
+}
