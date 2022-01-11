@@ -1,6 +1,6 @@
 # switch-manager
 
-<p align="center"><img width="128" height="128" src="https://github.com/CoolOtaku/switch-manager/blob/3a3fde3e293138c45b8962e8144521bac6a785cd/img/switch.png" /></p>
+<p align="center"><img width="128" height="128" src="/img/switch.png" /></p>
 
 ## EN
 
