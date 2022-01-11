@@ -68,8 +68,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `login`, `password`, `2fa_code`, `2fa_url_img`, `2fa_enable`, `avatar`) VALUES
-(1, 'SwitchManagerAdmin', 'YWRtaW4=', 'Y3N7JZVT4JG5NNHI', '/upload/qr_code/1.png', 0, '/upload/avatars/1.png'),
-(2, 'Nazar', 'YWl3cHJ0b24=', 'UUQQG462GMY47MXW', '/upload/qr_code/2.png', 0, '/upload/avatars/2.jpeg');
+(1, 'SwitchManagerAdmin', 'Base64 password', 'Google Authenticator Code', '/upload/qr_code/1.png', 0, '/upload/avatars/1.png'),
+(2, 'Nazar', 'Base64 password', 'Google Authenticator Code', '/upload/qr_code/2.png', 0, '/upload/avatars/2.jpeg');
 
 --
 -- Индексы сохранённых таблиц
