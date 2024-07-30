@@ -1,4 +1,4 @@
-<p align="center"><img width="128" height="128" src="/img/switch.png" /></p>
+<p align="center"><img width="128" height="128" src="/img/switch.png"/></p>
 <h1 align="center">switch-manager</h1>
 
 ## Description
@@ -27,22 +27,29 @@ This website is designed to manage switches and monitor their status. The site h
 </p>
 
 #
-
 ## Technologies used
-
+<b>EN:</b>
 - Internal authorization system
-- Two-factor authentication (Google Authenticator)
+- Two-factor authentication (**Google Authenticator**)
 - QR code generation for two-factor authentication
-- Using Bootstrap (front-end framework)
+- Using **Bootstrap** (front-end framework)
 - Database and main admin panel for managing switches
 - A convenient dock panel for the admin panel of the switch
 - A system for logging switch states
-- A system for checking the status of switches (ping command in js)
+- A system for checking the status of switches (*ping* command in js)
+
+<b>UA:</b>
+- Внутрішня система авторизації
+- Двофакторна аутентифікація (**Google Authenticator**)
+- Генерація QR-коду для двофакторної аутентифікації
+- Використання **Bootstrap** (front-end framework)
+- База даних і головна панель адміністратора для керування комутаторами
+- Зручна бокова панель для адмін-панелі комутатора
+- Система логування станів комутаторів
+- Система перевірки стану комутаторів (команда *ping* в js)
 
 #
-
 ## License
-
 ```
 © 2022, CoolOtaku (ericspz531@gmail.com)
 ```
