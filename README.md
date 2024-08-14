@@ -33,6 +33,8 @@ This website is designed to manage switches and monitor their status. The site h
 - Two-factor authentication ([**Google Authenticator**](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=uk))
 - ***QR*** code generation for two-factor authentication
 - Using [**Bootstrap**](https://getbootstrap.com) (front-end framework)
+- Using the library [**jQuery**](https://jquery.com)
+- Using the library [**SweetAlert2**](https://sweetalert2.github.io)
 - Database and main admin panel for managing switches
 - A convenient dock panel for the admin panel of the switch
 - A system for logging switch states
@@ -43,6 +45,8 @@ This website is designed to manage switches and monitor their status. The site h
 - Двофакторна аутентифікація ([**Google Authenticator**](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=uk))
 - Генерація ***QR***-коду для двофакторної аутентифікації
 - Використання [**Bootstrap**](https://getbootstrap.com) (front-end framework)
+- Використання бібліотеки [**jQuery**](https://jquery.com)
+- Використання бібліотеки [**SweetAlert2**](https://sweetalert2.github.io)
 - База даних і головна панель адміністратора для керування комутаторами
 - Зручна бокова панель для адмін-панелі комутатора
 - Система логування станів комутаторів
