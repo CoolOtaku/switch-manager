@@ -4,16 +4,16 @@
 ## Description
 <b>EN:</b>
 
-This project is my joint project with a colleague, for the office where our practice was conducted.
+This is a joint project with my colleague (who did practically nothing 😅), for the office where our practice was held.
 
-This website is designed to manage switches and monitor their status. The site has dual Google authorization, <a target="_blank" href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjnmtm5uaj1AhXBDOwKHdfxC8YQFnoECAUQAQ&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.google.android.apps.authenticator2%26hl%3Duk%26gl%3DUS&usg=AOvVaw25KqBQdghvgpCgjEEAIhZb">details on this site</a>. The site also works with the database, the path to the database configuration file: <a target="_blank" href="https://github.com/CoolOtaku/switch-manager/blob/d04eadda6e63f3e5cd97f9c053470da7059f1fed/template/SQL_Connect.php">template/SQL_Connect.php</a>. Also passwords for users, QR codes and codes for double authorization in the database are not valid (this is done for security).
+This website is designed to manage switches and monitor their status. The site has dual **Google** authorization, <a target="_blank" href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjnmtm5uaj1AhXBDOwKHdfxC8YQFnoECAUQAQ&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.google.android.apps.authenticator2%26hl%3Duk%26gl%3DUS&usg=AOvVaw25KqBQdghvgpCgjEEAIhZb">details on this site</a>. The site also works with the database, the path to the database configuration file: <a target="_blank" href="https://github.com/CoolOtaku/switch-manager/blob/d04eadda6e63f3e5cd97f9c053470da7059f1fed/template/SQL_Connect.php">template/SQL_Connect.php</a>. Also passwords for users, ***QR*** codes and codes for double authorization in the database are not valid (this is done for security).
 
 <b>UA:</b>
 
-Це проект мій спільний з колегою проект, для кантори на якій проводилася наша практика.
+Це спільний проект з моїм колегою (який практично нічого не робив 😅), для кантори на якій проводилася наша практика.
 
 Цей вебсайт 
-признацений для керування комутаторами та моніторингом їх станів. На сайті присутня двійна Google авторизація, <a target="_blank" href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjnmtm5uaj1AhXBDOwKHdfxC8YQFnoECAUQAQ&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.google.android.apps.authenticator2%26hl%3Duk%26gl%3DUS&usg=AOvVaw25KqBQdghvgpCgjEEAIhZb">деталі на цьому сайті</a>. Також сайт працює з базою даних, шлях до файлу конфігурації БД: <a target="_blank" href="https://github.com/CoolOtaku/switch-manager/blob/d04eadda6e63f3e5cd97f9c053470da7059f1fed/template/SQL_Connect.php">template/SQL_Connect.php</a>. Також паролі для користувачів, QR коди та коди для двійної авторизації, в базі даних не дійсні (це зроблено для безпеки).
+признацений для керування комутаторами та моніторингом їх станів. На сайті присутня двійна **Google** авторизація, <a target="_blank" href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjnmtm5uaj1AhXBDOwKHdfxC8YQFnoECAUQAQ&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.google.android.apps.authenticator2%26hl%3Duk%26gl%3DUS&usg=AOvVaw25KqBQdghvgpCgjEEAIhZb">деталі на цьому сайті</a>. Також сайт працює з базою даних, шлях до файлу конфігурації БД: <a target="_blank" href="https://github.com/CoolOtaku/switch-manager/blob/d04eadda6e63f3e5cd97f9c053470da7059f1fed/template/SQL_Connect.php">template/SQL_Connect.php</a>. Також паролі для користувачів, ***QR*** коди та коди для двійної авторизації, в базі даних не дійсні (це зроблено для безпеки).
 
 #
 ## Screenshots
@@ -30,9 +30,9 @@ This website is designed to manage switches and monitor their status. The site h
 ## Technologies used
 <b>EN:</b>
 - Internal authorization system
-- Two-factor authentication (**Google Authenticator**)
-- QR code generation for two-factor authentication
-- Using **Bootstrap** (front-end framework)
+- Two-factor authentication ([**Google Authenticator**](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=uk))
+- ***QR*** code generation for two-factor authentication
+- Using [**Bootstrap**](https://getbootstrap.com) (front-end framework)
 - Database and main admin panel for managing switches
 - A convenient dock panel for the admin panel of the switch
 - A system for logging switch states
@@ -40,9 +40,9 @@ This website is designed to manage switches and monitor their status. The site h
 
 <b>UA:</b>
 - Внутрішня система авторизації
-- Двофакторна аутентифікація (**Google Authenticator**)
-- Генерація QR-коду для двофакторної аутентифікації
-- Використання **Bootstrap** (front-end framework)
+- Двофакторна аутентифікація ([**Google Authenticator**](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=uk))
+- Генерація ***QR***-коду для двофакторної аутентифікації
+- Використання [**Bootstrap**](https://getbootstrap.com) (front-end framework)
 - База даних і головна панель адміністратора для керування комутаторами
 - Зручна бокова панель для адмін-панелі комутатора
 - Система логування станів комутаторів
